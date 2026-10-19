@@ -1,0 +1,6 @@
+.qa/
+__pycache__/
+*.pyc
+.deck-*.tmp
+.DS_Store
+sources/
